@@ -2,7 +2,7 @@
 name: Refactor Task
 about: 리팩토링 작업을 위한 이슈 템플릿입니다.
 title: "[Refactor]"
-labels: Refac
+labels: Refactor
 assignees: ''
 
 ---
